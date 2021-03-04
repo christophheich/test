@@ -1,4 +1,4 @@
-module github.com/wenerme/wps
+module github.com/christophheich/wps
 
 go 1.13
 
